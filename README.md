@@ -4,8 +4,7 @@
 I'm a **Full Stack Developer** passionate about designing and developing efficient, scalable, and user-friendly applications. With expertise in both frontend and backend technologies, I strive to create impactful digital solutions that drive user engagement and innovation.  
 
 💼 Current Role: Software Developer at **Peart Technology Limited**  
-🌍 Location: Narsingdi, Bangladesh  
-👨‍💻 Nickname: Techman  
+🌍 Location: Narsingdi, Bangladesh   
 
 ---
 
@@ -54,7 +53,7 @@ I'm a **Full Stack Developer** passionate about designing and developing efficie
 ## 📫 Let's Connect  
 - **LinkedIn**: [Shakhawat Hossain](https://www.linkedin.com/in/md-sk-hossain)  
 - **YouTube**: [Coding Share](https://www.youtube.com/@CodingShare)  
-- **GitHub**: [Techman](https://github.com/skhossain)  
+- **GitHub**: [Shakhawat Hossain](https://github.com/skhossain)  
 
 ---
 
