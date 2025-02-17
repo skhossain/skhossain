@@ -54,9 +54,11 @@ I'm a **Full Stack Developer** passionate about designing and developing efficie
 ## 📫 Let's Connect  
 - **LinkedIn**: [Shakhawat Hossain](https://www.linkedin.com/in/md-sk-hossain)  
 - **YouTube**: [Coding Share](https://www.youtube.com/@CodingShare)  
-- **GitHub**: [Shakhawat Hossain](https://github.com/skhossain)  
+- **GitHub**: [Shakhawat Hossain](https://github.com/skhossain)
+- **Codechef**: [Shakhawat Hossain](https://www.codechef.com/users/sk_hossain)
+- **HackerRank**: [Shakhawat Hossain}(https://www.hackerrank.com/profile/shakhawat_sk)
 
 ---
 
 ### ✨ Fun Fact  
-I enjoy creating content for my YouTube channels, **Device Info Tech** and **CodingShare**, where I share insights about technology and coding!  
+I enjoy creating content for my YouTube channels, **CodingShare**, where I share insights about technology and coding!  
