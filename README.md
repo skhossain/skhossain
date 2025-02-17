@@ -56,7 +56,7 @@ I'm a **Full Stack Developer** passionate about designing and developing efficie
 - **YouTube**: [Coding Share](https://www.youtube.com/@CodingShare)  
 - **GitHub**: [Shakhawat Hossain](https://github.com/skhossain)
 - **Codechef**: [Shakhawat Hossain](https://www.codechef.com/users/sk_hossain)
-- **HackerRank**: [Shakhawat Hossain}(https://www.hackerrank.com/profile/shakhawat_sk)
+- **HackerRank**: [Shakhawat Hossain](https://www.hackerrank.com/profile/shakhawat_sk)
 
 ---
 
